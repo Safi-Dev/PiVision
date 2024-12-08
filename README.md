@@ -29,7 +29,7 @@ PiVision is a Raspberry Pi-based system designed to analyze customer demographic
 
 1.  Clone the repository: `git clone [repository URL]`
 2.  Install the required libraries (see Dependencies above).
-3.  Run the main script: `python face_metrics.py`
+3.  Run the main script: `python main.py`
 
 ##  Ethical Note
 
