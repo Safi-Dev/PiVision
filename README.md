@@ -1,6 +1,6 @@
 # PiVision: Raspberry Pi Facial Analysis for Marketing
 
-**Project:** [SE2025] - [HSC Final Project]
+**Project:** [SE2025] - [Final Project]
 
 ## Project Summary
 
